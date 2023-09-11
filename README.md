@@ -4,9 +4,9 @@
 >---
 
 >### 框框內的是參考答案
->> ```
->> 這是舉例匡
->> ```
+> ```
+> 這是舉例匡
+> ```
 >---
 
 ---
@@ -132,3 +132,24 @@ print(s)
 ```
 [![docker](https://img.youtube.com/vi/sSm2dRarhPo/0.jpg)](https://www.youtube.com/watch?v=sSm2dRarhPo)
 ```
+
+---
+### Table
+
+| Left Aligned  |  Center Aligned  | Right Aligned |
+| :------------ | :--------------: | ------------: |
+| col 3 is      | some wordly text |         $1600 |
+| col 2 is      |     centered     |           $12 |
+| zebra stripes |     are neat     |            $1 |
+| test          |      測試.       |         $3333 |
+
+```
+| Left Aligned  |  Center Aligned  | Right Aligned |
+| :------------ | :--------------: | ------------: |
+| col 3 is      | some wordly text |         $1600 |
+| col 2 is      |     centered     |           $12 |
+| zebra stripes |     are neat     |            $1 |
+| test          |      測試.       |         $3333 |
+```
+
+---
